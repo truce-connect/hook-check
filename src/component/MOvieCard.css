@@ -1,0 +1,15 @@
+.container{
+    border: black 2px solid;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    background-color: black;
+    
+
+}
+
+.container img{
+    height: 200px;
+    width: 150px;
+}
+
